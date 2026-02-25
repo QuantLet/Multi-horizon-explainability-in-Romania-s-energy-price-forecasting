@@ -1,0 +1,6 @@
+Name of Quantlet: Code
+Published in:  Multi-horizon explainability in Romania's energy price forecasting
+Description: This is the code for our paper
+Keywords: Code
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER 
+Submitted: 25.02.2026
