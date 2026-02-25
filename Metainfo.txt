@@ -1,0 +1,11 @@
+Name of QuantLet: Multi-horizon explainability in Romania's energy price forecasting
+
+Published in: Not yet published
+
+Description: Introducing a multi-horizon explainability framework to analyze electricity market dynamics
+
+Keywords: electricity price forecasting, explainable artificial intelligence, SHAP, multi-horizon analy- sis, market regime analysis, renewable energy integration, machine learning
+
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER
+
+Submitted: 25.02.2026
