@@ -1,0 +1,6 @@
+Name of Quantlet: Data
+Published in: Multi-horizon explainability in Romania's energy price forecasting
+Description: This is the data for our paper
+Keywords: Data
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER 
+Submitted: 25.02.2026
